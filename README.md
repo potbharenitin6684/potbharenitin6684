@@ -1,4 +1,4 @@
-<img src="https://binaryinformatics.com/wp-content/uploads/2020/01/Java-Developer-Skills.jpg"/>
+<img height="500px" src="https://binaryinformatics.com/wp-content/uploads/2020/01/Java-Developer-Skills.jpg"/>
 <h1 align="center">Hi 👋, I'm Nitin Potbhare</h1>
 <h3 align="center">Aspiring Java Backend Development @Masai School. Post graduation in Computer Science. Capable of writing production ready code.</h3>
 <img  align="right" width="400px" alt="Coder"  src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif"/></p><br>
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/potbharenitin6684.github.io](https://github.com/potbharenitin6684/potbharenitin6684.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/potbharenitin6684.github.io]([https://github.com/potbharenitin6684/potbharenitin6684.github.io](https://potbharenitin6684.github.io/))
 
 <h3 align="left">Connect with me:potbharenitin6684@gmail.com</h3>
 <p align="left">
