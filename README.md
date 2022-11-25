@@ -1,7 +1,7 @@
 <img src="https://binaryinformatics.com/wp-content/uploads/2020/01/Java-Developer-Skills.jpg"/>
 <h1 align="center">Hi 👋, I'm Nitin Potbhare</h1>
 <h3 align="center">Aspiring Java Developer</h3>
-<img src="https://www.google.com/search?q=developer+animated+images+gif&tbm=isch&ved=2ahUKEwiNlpr_3Mj7AhWREbcAHUBrBHkQ2-cCegQIABAA&oq=developer+animated+images+gif&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BAgAEB5QqQdYoBBgnhJoAHAAeACAAfEJiAHLE5IBDTAuMS4xLjEuMS43LTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=m2OAY83cKpGj3LUPwNaRyAc&bih=657&biw=1366#imgrc=afZ6IsRjzpcYIM"/>
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potbharenitin6684&label=Profile%20views&color=0e75b6&style=flat" alt="potbharenitin6684" /> </p>
 
 - 🌱 I’m currently learning **Java Backend Development**
