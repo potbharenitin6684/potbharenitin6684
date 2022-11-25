@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potbharenitin6684&show_icons=true&locale=en" alt="potbharenitin6684" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potbharenitin6684&" alt="potbharenitin6684" /></p>
+
+<img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" alt="" />
+
