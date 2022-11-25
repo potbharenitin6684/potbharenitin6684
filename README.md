@@ -1,6 +1,6 @@
 <img src="https://binaryinformatics.com/wp-content/uploads/2020/01/Java-Developer-Skills.jpg"/>
 <h1 align="center">Hi 👋, I'm Nitin Potbhare</h1>
-<h3 align="center">Aspiring Java Developer</h3>
+<h3 align="center">Aspiring Java Backend Development @Masai School. Post graduation in Computer Science. Capable of writing production ready code.</h3>
 <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potbharenitin6684&label=Profile%20views&color=0e75b6&style=flat" alt="potbharenitin6684" /> </p>
 
