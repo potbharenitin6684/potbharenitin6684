@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/potbharenitin6684.github.io]([https://github.com/potbharenitin6684/potbharenitin6684.github.io](https://potbharenitin6684.github.io/))
+- 👨‍💻 All of my projects are available at https://potbharenitin6684.github.io/
 
 <h3 align="left">Connect with me : potbharenitin6684@gmail.com</h3>
 <p align="left">
