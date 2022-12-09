@@ -4,14 +4,21 @@
 <hr>
 <h3 align="center">Aspiring Java Backend Development @Masai School. Post graduation in Computer Science. Capable of writing production ready code.</h3>
 <hr>
-<img  align="right" width="400px" alt="Coder"  src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif"/></p><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=potbharenitin6684&label=Profile%20views&color=0e75b6&style=flat" alt="potbharenitin6684" /> </p>
+<img  align="right" width="400px" alt="Coder" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif"/></p>
+<!-- <p align="left"  margin-top="10px"> <img src="https://komarev.com/ghpvc/?username=potbharenitin6684&label=Profile%20views&color=0e75b6&style=flat" alt="potbharenitin6684" /> </p> -->
+
+## 🙋‍♂️ **About Me**
 
 - 🌱 I’m currently learning **Java Backend Development**
+  
+- 💬 Ask me about :  **HTML | CSS | JavaScript | Java*
 
-- 👨‍💻 All of my projects are available at https://potbharenitin6684.github.io/
+- 👨‍💻 All of my projects are available at : **[Portfolio](https://potbharenitin6684.github.io/)**
+  
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/11M2eoCx2nY8yJ0uU6cJ4UGHNtwCBBuyw/view?usp=share_link)**
 
-<h3 align="left">Connect with me : potbharenitin6684@gmail.com</h3>
+- 📫 How to reach me : **potbharenitin6684@gmail.com**
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitin-potbhare-365270213?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bmyquiz2sqduwwphgsr2nlg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-potbhare-365270213?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bmyquiz2sqduwwphgsr2nlg%3d%3d" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/potbharenitin03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/potbharenitin03" height="30" width="40" /></a>
