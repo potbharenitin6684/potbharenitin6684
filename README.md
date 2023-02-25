@@ -19,17 +19,11 @@
 
 - 📫 Email ID : **potbharenitin6684@gmail.com**
 
-
-
 ##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
-
 <p align="left">
 <a href = "https://www.linkedin.com/in/nitin-potbhare-365270213/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
 <hr>
-
-
 ## ❤ **Views and Followers**
 <a href="https://github.com/potbharenitin6684/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=potbharenitin6684">
@@ -37,11 +31,8 @@
 <a href="https://github.com/potbharenitin6684?tab=followers">
   <img width="150px" src="https://img.shields.io/github/followers/potbharenitin6684?label=Followers&style=social" alt="GitHub Badge">
 </a>
-
 <br/>
 <hr>
->
-
 ## 🚀 **Languages and Tools:**
 <div>
  <div ><h3>FRONTEND TOOLS : -</h3>
@@ -49,9 +40,7 @@
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 </div>
-
 <br/>
-  
   <div><h3>BACKEND TOOLS : -</h3> 
 <img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
@@ -61,9 +50,7 @@
 <img src ="https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%23F7DF1E" align="center" alt="Storybook">
 <img src="https://img.shields.io/badge/rest api-20232A.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/> 
  </div>
-  
 <br/>
-  
   <div ><h3>SUPPORTING TOOLS : -</h3> 
    <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="netlify"/>
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange"  align="center" alt="git"/>
@@ -75,7 +62,7 @@
       <img src = "https://img.shields.io/badge/codesandbox-%23323330.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="npm">
  </div>
 </div>
-
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potbharenitin6684" alt="potbharenitin6684" /></a> </p>
 
 <hr>
