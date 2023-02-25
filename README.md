@@ -20,6 +20,17 @@
 - 📫 Email ID : **potbharenitin6684@gmail.com**
 
 
+
+##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
+
+<p align="left">
+<a href = "https://www.linkedin.com/in/nitin-potbhare-365270213/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://twitter.com/kirtiraj_ingale"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+</p>
+
+
+
+<!-- 
 ##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
 
 <p align="left">
