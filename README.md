@@ -25,26 +25,16 @@
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/nitin-potbhare-365270213/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/kirtiraj_ingale"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 </p>
 
-
-
-<!-- 
-##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nitin-potbhare-365270213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-potbhare-365270213/" height="30" width="40" /></a>
-<!--   <a href="https://www.hackerrank.com/https://www.hackerrank.com/potbharenitin03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/potbharenitin03" height="30" width="40" /></a> -->
-</p>
 <hr>
 
 
 ## ❤ **Views and Followers**
-<a href="https://github.com/kirtirajingale/github-profile-views-counter">
+<a href="https://github.com/potbharenitin6684/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=potbharenitin6684">
 </a>
-<a href="https://github.com/kirtirajingale?tab=followers">
+<a href="https://github.com/potbharenitin6684?tab=followers">
   <img width="150px" src="https://img.shields.io/github/followers/potbharenitin6684?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
