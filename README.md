@@ -19,12 +19,15 @@
 
 - 📫 Email ID : **potbharenitin6684@gmail.com**
 
-##  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">  **Connect With Me**
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">**Connect With Me**
 <p align="left">
+  
 <a href = "https://www.linkedin.com/in/nitin-potbhare-365270213/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 <hr>
+
 ## ❤ **Views and Followers**
+
 <a href="https://github.com/potbharenitin6684/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=potbharenitin6684">
 </a>
@@ -33,7 +36,9 @@
 </a>
 <br/>
 <hr>
+
 ## 🚀 **Languages and Tools:**
+
 <div>
  <div ><h3>FRONTEND TOOLS : -</h3>
  <img src="https://img.shields.io/badge/html5-ff7043.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
