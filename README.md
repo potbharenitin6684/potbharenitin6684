@@ -47,13 +47,12 @@
 </div>
 <br/>
   <div><h3>BACKEND TOOLS : -</h3> 
-<img src="https://img.shields.io/badge/Node.js-2e7d32?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4caf50?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/Mongooes-%23323330?style=for-the-badge&logo=fastify&logoColor=red" align="center" alt="mongooes" />
-<img src ="https://img.shields.io/badge/Jest-20232A.svg?style=for-the-badge&logo=jest&logoColor=%23F7DF1E" align="center" alt="jest">
-<img src ="https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%23F7DF1E" align="center" alt="Storybook">
-<img src="https://img.shields.io/badge/rest api-20232A.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/> 
+<img src="https://img.shields.io/badge/JAVA-2e7d32?style=for-the-badge&logo=java&logoColor=white" align="center" alt="java&" />
+<img src="https://img.shields.io/badge/SPRING BOOT-4caf50?style=for-the-badge&logo=SPRING BOOT&logoColor=white" align="center" alt="SPRING BOOT"/>
+<img src="https://img.shields.io/badge/HIBERNATE-%23323330?style=for-the-badge&logo=HIBERNATE&logoColor=red" align="center" alt="HIBERNATE" />
+<img src ="https://img.shields.io/badge/MY SQL-20232A.svg?style=for-the-badge&logo=MY SQL&logoColor=%23F7DF1E" align="center" alt="MY SQL">
+<img src ="https://img.shields.io/badge/MAVEN-%23323330.svg?style=for-the-badge&logo=MAVEN&logoColor=%23F7DF1E" align="center" alt="MAVEN">
+
  </div>
 <br/>
   <div ><h3>SUPPORTING TOOLS : -</h3> 
@@ -63,8 +62,6 @@
    <img src = "https://img.shields.io/badge/NPM-20232A.svg?style=for-the-badge&logo=npm&logoColor=red" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=blue"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fdd835" align="center" alt="slack"/>
-    <img src = "https://img.shields.io/badge/Vercel-20232A.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="vercel">
-      <img src = "https://img.shields.io/badge/codesandbox-%23323330.svg?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="npm">
  </div>
 </div>
 <hr>
