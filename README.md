@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently learning **Java Full Stack Development**
   
 - 💬 Ask me about :  **HTML | CSS | JavaScript | Java*
 
