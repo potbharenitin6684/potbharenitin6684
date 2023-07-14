@@ -1,8 +1,8 @@
 <img height="400px" width="100%" src="https://binaryinformatics.com/wp-content/uploads/2020/01/Java-Developer-Skills.jpg"/>
 <hr>
-<img width="100%"  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79912;size=20&amp;lines=Hello,+I+am+Nitin+Potbhare+;Java+Back-end+Developer...;">
+<img width="100%"  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79912;size=20&amp;lines=Hello,+I+am+Nitin+Potbhare+;Java+Full-Stack+Developer...;">
 <hr>
-<h3 align="center">Aspiring Java Backend Development @Masai School. Post graduation in Computer Science. Capable of writing production ready code.</h3>
+<h3 align="center"></h3>
 <hr>
 <img  align="right" width="400px" alt="Coder" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif"/></p>
 <!-- <p align="left"  margin-top="10px"> <img src="https://komarev.com/ghpvc/?username=potbharenitin6684&label=Profile%20views&color=0e75b6&style=flat" alt="potbharenitin6684" /> </p> -->
