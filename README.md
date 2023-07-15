@@ -11,18 +11,18 @@
 
 - 🌱 I’m currently learning **Java Full Stack Development**
   
-- 💬 Ask me about :  **HTML | CSS | JavaScript | Java*
+- 💬 Ask me about :  **Core Java | Advanced Java | Spring | Spring Boot | Hibernate| JavaScript | HTML | CSS*
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://potbharenitin6684.github.io/)**
   
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1WbM-xnLNcRfdhOEOQy23P9izwPxsh3bo/view?usp=share_link)**
 
-- 📫 Email ID : **potbharenitin6684@gmail.com**
+- 📫 Email ID : **potbharenitin03@gmail.com**
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60">**Connect With Me**
 <p align="left">
   
-<a href = "https://www.linkedin.com/in/nitin-potbhare-365270213/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "[https://www.linkedin.com/in/nitin-potbhare-365270213/](https://www.linkedin.com/in/nitin-potbhare-71b883283/)"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 <hr>
 
