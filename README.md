@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at : **[Portfolio](https://potbharenitin6684.github.io/)**
   
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1WbM-xnLNcRfdhOEOQy23P9izwPxsh3bo/view?usp=share_link)**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1sNjPKm88EHgLwJwB9tT1PcGsey4gwYY1/view?usp=sharing)**
 
 - 📫 Email ID : **potbharenitin03@gmail.com**
 
